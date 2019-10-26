@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.10.10)  19 OCT 2019 22:45
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.10.10)  24 OCT 2019 17:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,7 +781,7 @@ Package rerunfilecheck Info: File `coverletter.out' has not changed.
 Here is how much of TeX's memory you used:
  27045 strings out of 492916
  492915 string characters out of 6133344
- 713751 words of memory out of 5000000
+ 714751 words of memory out of 5000000
  30864 multiletter control sequences out of 15000+600000
  535420 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
